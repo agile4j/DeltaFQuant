@@ -49,3 +49,5 @@ df_week['volume(sum)'] = df['volume'].resample('W').sum()
 df_week['money(sum)'] = df['money'].resample('W').sum()
 
 print(df_week)
+
+'''获取财务指标数据'''
