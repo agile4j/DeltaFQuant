@@ -5,6 +5,8 @@
 @time: 2021/8/4
 """
 
+'''获取财务指标数据'''
+
 # https://www.joinquant.com/help/api/help#name:JQData
 from jqdatasdk import *
 import pandas as pd
